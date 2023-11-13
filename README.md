@@ -3,6 +3,7 @@
 
 - [Active Directory Home Lab](https://github.com/MobMing/ActiveDirectoryLab)
 - [Hello World!](https://github.com/MobMing/ActiveDirectoryLab)
+- [Define directory home lab](https://github.com/MobMing/DefinelyRunningDirectory/blob/main/README.md)
 
 <h2>Certifications</h2>
 
