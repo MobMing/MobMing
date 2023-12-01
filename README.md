@@ -5,6 +5,7 @@
 - [Hello World!](https://github.com/MobMing/ActiveDirectoryLab)
 - [Define directory home lab](https://github.com/MobMing/DefinelyRunningDirectory/blob/main/README.md)
 - [Network Administration adding 1k users to powershell](https://github.com/MobMing/Network-administration-adding-1k-Users-to-powershell)
+- [Active hacking directory](https://github.com/MobMing/Active-hacking-directory-)
 
 <h2>Certifications</h2>
 
